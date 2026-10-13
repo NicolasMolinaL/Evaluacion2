@@ -18,13 +18,13 @@ El sistema permite a los usuarios:
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio(Ingresar una linea a la vez):
-cd ~
-git clone https://github.com/NicolasMolinaL/Evaluacion2
-cd Evaluacion2
-ls -la
+- cd ~
+- git clone https://github.com/NicolasMolinaL/Evaluacion2
+- cd Evaluacion2
+- ls -la
 
 2. Ejecutar el script:
-python3
+-python3 graphhopper.py
 
 3. Ingresar unos de los transporte disponibles (car, bike o foot)
 
